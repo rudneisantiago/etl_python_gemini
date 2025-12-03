@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": "3827",
+      "name": "Luna",
+      "account": {
+        "id": 4062,
+        "number": "02023-7",
+        "agency": "0001",
+        "balance": 0,
+        "limit": 500
+      },
+      "card": {
+        "id": 3719,
+        "number": "**** **** **** 0423",
+        "limit": 1000
+      },
+      "features": [
+        "pix",
+        "transfer",
+        "payment"
+      ],
+      "news": [
+        {
+          "description": "Luna, seu futuro é um investimento! Faça seu dinheiro crescer para seus maiores sonhos.",
+          "icon": "Luna.svg"
+        }
+      ]
+    },
+    {
+      "id": "3828",
+      "name": "Sofia",
+      "account": {
+        "id": 4063,
+        "number": "02024-8",
+        "agency": "0002",
+        "balance": 150.75,
+        "limit": 800
+      },
+      "card": {
+        "id": 3720,
+        "number": "**** **** **** 1234",
+        "limit": 2000
+      },
+      "features": [
+        "pix",
+        "loan"
+      ],
+      "news": [
+        {
+          "description": "Sofia, invista! Faça seu dinheiro crescer e construa o futuro próspero que você merece.",
+          "icon": "Sofia.svg"
+        }
+      ]
+    },
+    {
+      "id": "3829",
+      "name": "Mateus",
+      "account": {
+        "id": 4064,
+        "number": "02025-9",
+        "agency": "0003",
+        "balance": 500,
+        "limit": 1200
+      },
+      "card": {
+        "id": 3721,
+        "number": "**** **** **** 5678",
+        "limit": 1500
+      },
+      "features": [
+        "investment",
+        "transfer"
+      ],
+      "news": [
+        {
+          "description": "Mateus, seu futuro começa hoje! Invista e construa a vida que você merece.",
+          "icon": "Mateus.svg"
+        }
+      ]
+    },
+    {
+      "id": "3830",
+      "name": "Clara",
+      "account": {
+        "id": 4065,
+        "number": "02026-0",
+        "agency": "0004",
+        "balance": 300,
+        "limit": 600
+      },
+      "card": {
+        "id": 3722,
+        "number": "**** **** **** 8765",
+        "limit": 900
+      },
+      "features": [
+        "payment",
+        "pix"
+      ]
+    },
+    {
+      "id": "3831",
+      "name": "Gabriel",
+      "account": {
+        "id": 4066,
+        "number": "02027-1",
+        "agency": "0005",
+        "balance": 1000,
+        "limit": 2500
+      },
+      "card": {
+        "id": 3723,
+        "number": "**** **** **** 4321",
+        "limit": 3000
+      },
+      "features": [
+        "loan",
+        "investment"
+      ],
+      "news": [
+        {
+          "description": "**Gabriel, o futuro não espera! Invista seu dinheiro para vê-lo crescer e realizar seus sonhos.**",
+          "icon": "Gabriel.svg"
+        }
+      ]
+    },
+    {
+      "id": "3832",
+      "name": "Isabela",
+      "account": {
+        "id": 4067,
+        "number": "02028-2",
+        "agency": "0006",
+        "balance": 50,
+        "limit": 400
+      },
+      "card": {
+        "id": 3724,
+        "number": "**** **** **** 2468",
+        "limit": 700
+      },
+      "features": [
+        "pix",
+        "transfer"
+      ]
+    },
+    {
+      "id": "3833",
+      "name": "Lucas",
+      "account": {
+        "id": 4068,
+        "number": "02029-3",
+        "agency": "0007",
+        "balance": 200,
+        "limit": 1000
+      },
+      "card": {
+        "id": 3725,
+        "number": "**** **** **** 1357",
+        "limit": 1200
+      },
+      "features": [
+        "payment",
+        "loan"
+      ]
+    },
+    {
+      "id": "3834",
+      "name": "Mariana",
+      "account": {
+        "id": 4069,
+        "number": "02030-4",
+        "agency": "0008",
+        "balance": 750,
+        "limit": 1800
+      },
+      "card": {
+        "id": 3726,
+        "number": "**** **** **** 9753",
+        "limit": 2000
+      },
+      "features": [
+        "investment",
+        "pix"
+      ]
+    },
+    {
+      "id": "3835",
+      "name": "Pedro",
+      "account": {
+        "id": 4070,
+        "number": "02031-5",
+        "agency": "0009",
+        "balance": 120,
+        "limit": 500
+      },
+      "card": {
+        "id": 3727,
+        "number": "**** **** **** 8642",
+        "limit": 1000
+      },
+      "features": [
+        "transfer",
+        "payment"
+      ]
+    },
+    {
+      "id": "3836",
+      "name": "Ana",
+      "account": {
+        "id": 4071,
+        "number": "02032-6",
+        "agency": "0010",
+        "balance": 2000,
+        "limit": 5000
+      },
+      "card": {
+        "id": 3728,
+        "number": "**** **** **** 1111",
+        "limit": 6000
+      },
+      "features": [
+        "pix",
+        "investment",
+        "loan"
+      ]
+    }
+  ]
+}
