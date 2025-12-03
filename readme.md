@@ -14,7 +14,7 @@ A API utilizada é criada com a biblioteca `json-server`, utilizando um arquivo 
 
 Certifique-se de ter as seguintes dependências instaladas:
 
-- Python 3.8+
+- Python 3.1+
 - Bibliotecas Python:
   - `os`
   - `requests`
